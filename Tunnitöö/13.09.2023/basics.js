@@ -85,7 +85,7 @@ console.log(peopleData)
 
 const newJuku = {
     ...peopleData[0],
-    height: 175
+    height: 175,
     age: 25 //kirjutab üle eelmised andmed, kui saab
 }
 
