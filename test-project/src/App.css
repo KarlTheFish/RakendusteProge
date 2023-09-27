@@ -1,0 +1,12 @@
+body{
+  background-color: #282c34;
+  color: aliceblue;
+}
+
+.MainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
